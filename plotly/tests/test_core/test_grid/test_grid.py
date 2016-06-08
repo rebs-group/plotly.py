@@ -9,7 +9,7 @@ from __future__ import absolute_import
 
 import random
 import string
-import requests
+import http_requests
 
 from nose import with_setup
 from nose.plugins.attrib import attr
